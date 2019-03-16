@@ -1,0 +1,29 @@
+{
+  "name": "grunt_demo",
+  "version": "1.0.0",
+  "description": "Grunt 试炼场",
+  "main": "index.js",
+  "dependencies": {
+    "run": "^1.4.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "grunt": "^1.0.3",
+    "grunt-mocha-cli": "^4.0.0",
+    "grunt-run": "^0.8.1",
+    "grunt_run": "^0.8.1"
+  },
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zdw98/grunt-demo.git"
+  },
+  "author": "zdw98",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zdw98/grunt-demo/issues"
+  },
+  "homepage": "https://github.com/zdw98/grunt-demo#readme"
+}
